@@ -1,0 +1,2 @@
+Goodbye.
+        First nodejs assignment finished.
